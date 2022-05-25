@@ -11,6 +11,7 @@
       "matches": ["https://chaoshi.detail.tmall.com/*","https://cart.tmall.com/*","https://buy.tmall.com/*"],
       "js": ["maotai.js"],
 	  "run_at": "document_idle"
+	 
     }
   ]
 }
